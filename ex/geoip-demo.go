@@ -1,4 +1,4 @@
-/* 
+/*
  * Original author: Stiletto <blasux@blasux.ru>
  *
  * This program is free software. It comes without any warranty, to
@@ -11,7 +11,7 @@ package main
 
 import (
 	"fmt"
-	"geoip"
+	"github.com/abh/geoip"
 )
 
 func main() {
